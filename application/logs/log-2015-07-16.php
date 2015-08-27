@@ -1,0 +1,31 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-16 16:19:39 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:20:03 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:30:48 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:37:36 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:40:28 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:43:28 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:44:14 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:48:25 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:51:05 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:51:56 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:52:56 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:53:28 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:55:57 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:57:09 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 16:57:45 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:22:31 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:23:00 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:23:03 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:23:28 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:23:48 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:24:49 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:25:08 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:27:27 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:31:38 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:32:39 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:33:39 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:34:19 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:34:30 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20
+ERROR - 2015-07-16 17:34:44 --> Severity: Notice  --> Undefined variable: avatar_missing C:\xampp\htdocs\projects\cenks\application\views\admin\parts\notifications.php 20

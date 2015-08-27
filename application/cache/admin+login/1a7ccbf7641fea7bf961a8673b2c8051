@@ -1,0 +1,43 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:1:{s:5:"query";s:464:"  SELECT 
+  U.id, 
+  U.login_name,
+  U.isadmin,
+  U.login_password, 
+  U.emailaddress,
+  U.firstname,
+  U.othernames,
+  U.lastname, 
+  U.imageurl,   
+  R.groupid, 
+  UG.groupname
+  
+  FROM users U 
+  LEFT OUTER JOIN users_roles R    ON U.id = R.userid 
+  LEFT OUTER JOIN users_groups UG  
+
+  ON R.groupid = UG.id WHERE U.login_name = '_USERNAME_' 
+  
+  AND U.login_password = '_PASSWORD_'
+  
+  AND U.isactive = 'Y' AND R.isactive = 'Y' LIMIT 1";}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":1:{s:5:"query";s:464:"  SELECT 
+  U.id, 
+  U.login_name,
+  U.isadmin,
+  U.login_password, 
+  U.emailaddress,
+  U.firstname,
+  U.othernames,
+  U.lastname, 
+  U.imageurl,   
+  R.groupid, 
+  UG.groupname
+  
+  FROM users U 
+  LEFT OUTER JOIN users_roles R    ON U.id = R.userid 
+  LEFT OUTER JOIN users_groups UG  
+
+  ON R.groupid = UG.id WHERE U.login_name = '_USERNAME_' 
+  
+  AND U.login_password = '_PASSWORD_'
+  
+  AND U.isactive = 'Y' AND R.isactive = 'Y' LIMIT 1";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}

@@ -1,0 +1,27 @@
+.fileinput-preview img
+{
+    height: 140px;
+}
+
+.table > thead > tr > th {
+    /* background: #f1f5f9; */
+    background: none;
+
+}
+
+.fa-twitter {
+    color: #55acee;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-linkedin {
+    color: #427fed;
+}
+
+.fa-google-plus {
+    color: #da573b;
+}
+
